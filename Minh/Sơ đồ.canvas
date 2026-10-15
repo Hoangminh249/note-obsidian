@@ -1,8 +1,7 @@
 {
 	"nodes":[
-		{"id":"ae35852456f058f9","type":"group","x":-2200,"y":-1080,"width":3920,"height":2000,"label":"Dieu hanh xe"},
-		{"id":"ab4bbae2a0bda47c","type":"link","url":"https://dieu-hanh-tour.onrender.com/lark-dieu-phoi","x":-2160,"y":-1000,"width":2360,"height":1440},
-		{"id":"cabddbb0dca34fcc","x":887,"y":-835,"width":250,"height":60,"type":"text","text":"aaa"}
+		{"id":"ae35852456f058f9","type":"group","x":-2920,"y":-1400,"width":4640,"height":2320,"label":"Dieu hanh xe"},
+		{"id":"ab4bbae2a0bda47c","type":"link","url":"https://dieu-hanh-tour.onrender.com/lark-dieu-phoi","x":-2840,"y":-1320,"width":1080,"height":1360}
 	],
 	"edges":[]
 }
