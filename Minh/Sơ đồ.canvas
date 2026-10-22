@@ -1,7 +1,15 @@
 {
 	"nodes":[
-		{"id":"ae35852456f058f9","type":"group","x":-2920,"y":-1400,"width":4640,"height":2320,"label":"Dieu hanh xe"},
-		{"id":"ab4bbae2a0bda47c","type":"link","url":"https://dieu-hanh-tour.onrender.com/lark-dieu-phoi","x":-2840,"y":-1320,"width":1080,"height":1360}
+		{"id":"6945f7b538db88e9","type":"text","text":"TourWell\n- Nhà cung cấp \n","x":-2300,"y":-113,"width":250,"height":153},
+		{"id":"57fb9f6205e9fa8e","type":"text","text":"Team Điều hành","x":-1900,"y":-810,"width":340,"height":210,"color":"6"},
+		{"id":"75c81e0db14b3233","x":-1540,"y":120,"width":250,"height":70,"type":"text","text":"khách"},
+		{"id":"1411c77a10a0c5a4","x":-1140,"y":-780,"width":400,"height":280,"type":"text","text":"Data\n{\nTour : \"\"\n\n}"},
+		{"id":"2fe71d4f65024446","type":"text","text":"Điều hành App\n- Nhận thông tin\n- Soạn tin nhắn theo mẫu có sẵn","x":-1020,"y":-147,"width":320,"height":187,"color":"4"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"dc0b89c584d81178","fromNode":"57fb9f6205e9fa8e","fromSide":"left","toNode":"6945f7b538db88e9","toSide":"top","label":"Chụp màn hình"},
+		{"id":"768a323275a84086","fromNode":"1411c77a10a0c5a4","fromSide":"bottom","toNode":"2fe71d4f65024446","toSide":"top"},
+		{"id":"c639112a84b1b351","fromNode":"57fb9f6205e9fa8e","fromSide":"right","toNode":"1411c77a10a0c5a4","toSide":"left","label":"Claude\n\n"},
+		{"id":"eb0a3a5706590d89","fromNode":"2fe71d4f65024446","fromSide":"bottom","toNode":"75c81e0db14b3233","toSide":"right"}
+	]
 }
