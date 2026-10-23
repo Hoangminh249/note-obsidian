@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"7f15510564b87777","type":"text","text":"User ","x":-40,"y":-320,"width":87,"height":60},
+		{"id":"f33a163606d100e5","type":"text","text":"Hợp đồng (Tài liệu có form mẫu dạng word)","x":-121,"y":-160,"width":250,"height":110},
+		{"id":"72938e2e9656c609","type":"text","text":"AI (Claude , GPT , ....)","x":-100,"y":200,"width":208,"height":60,"color":"6"},
+		{"id":"084493cc0ed4afa8","x":-121,"y":40,"width":250,"height":60,"type":"text","text":"Mô tả cho AI hiểu"},
+		{"id":"45ec6347a04ee943","x":640,"y":40,"width":210,"height":50,"type":"text","text":"Mong muốn"},
+		{"id":"7179336220b66321","type":"text","text":"Mục đích\n\n- Phần mềm\n- Học tập\n- Những công việc lặp đi lặp lại - OK","x":200,"y":380,"width":343,"height":213}
+	],
+	"edges":[
+		{"id":"3b530e3345c20c8a","fromNode":"72938e2e9656c609","fromSide":"bottom","toNode":"7179336220b66321","toSide":"top"},
+		{"id":"4d7e919ac0d7efce","fromNode":"7179336220b66321","fromSide":"right","toNode":"45ec6347a04ee943","toSide":"left"},
+		{"id":"e0d701dae7bb7f6a","fromNode":"7f15510564b87777","fromSide":"bottom","toNode":"f33a163606d100e5","toSide":"top"},
+		{"id":"6a7cc88ec7de6911","fromNode":"f33a163606d100e5","fromSide":"bottom","toNode":"084493cc0ed4afa8","toSide":"top"},
+		{"id":"7ea400d2aace455e","fromNode":"084493cc0ed4afa8","fromSide":"bottom","toNode":"72938e2e9656c609","toSide":"top"}
+	]
+}
