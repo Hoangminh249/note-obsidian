@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"a0d32a3bc01245d1","x":327,"y":1041,"width":250,"height":60,"type":"text","text":""},
 		{"id":"7f15510564b87777","type":"text","text":"User ","x":-40,"y":-320,"width":87,"height":60},
 		{"id":"f33a163606d100e5","type":"text","text":"Hợp đồng (Tài liệu có form mẫu dạng word)","x":-121,"y":-160,"width":250,"height":110},
 		{"id":"72938e2e9656c609","type":"text","text":"AI (Claude , GPT , ....)","x":-100,"y":200,"width":208,"height":60,"color":"6"},
